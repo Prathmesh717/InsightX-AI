@@ -585,3 +585,11 @@ InsightX AI can be adapted for:
 * Interactive Data Visualization
 * REST APIs
 * Large-scale CSV processing
+
+
+## License
+
+Copyright 2026 Prathmesh Aghor
+
+Licensed under the Apache License, Version 2.0.
+See the [LICENSE](LICENSE) file for details.
